@@ -1,0 +1,7 @@
+1. Jadranka (10)
+2. Damjana (8)
+3. Srecko (7)
+3. Franci (7)
+5. Tilen (6)
+5. Julijana (6)
+5. Zdenko (6)

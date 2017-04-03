@@ -1,0 +1,5 @@
+1. Bernard (10)
+2. Jasmina (9)
+3. Francisek (8)
+4. Nada (7)
+5. Alojzij (6)

@@ -1,0 +1,5 @@
+1. Tea (10)
+2. Urska (9)
+3. David (8)
+4. Marusa (7)
+5. Ivo (6)

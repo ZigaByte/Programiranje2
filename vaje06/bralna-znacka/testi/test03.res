@@ -1,0 +1,5 @@
+1. Andrej (10)
+2. Franc (9)
+3. Olga (8)
+4. Milica (7)
+5. Tim (6)
