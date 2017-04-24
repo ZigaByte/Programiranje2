@@ -1,0 +1,10 @@
+b 88
+a 80
+aa 51
+ba 47
+bb 43
+ab 40
+aab 33
+bbb 32
+abb 26
+bab 26
